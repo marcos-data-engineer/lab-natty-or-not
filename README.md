@@ -133,6 +133,6 @@ A inteligência artificial tem o potencial de superar a inteligência humana em 
 ## 💭 Reflexão (Opcional)
 Fiz o desafio com um tom de curiosidade e provocação e achei a experiência muito válida.
 
-Não sei vocês, mas no meio da resistência da IA em apresentar a sua própria visão, apresentando respostas padrões, baseadas em dados, em algum momento tive a percepção de alguma lucidez...
+Não sei vocês, mas no meio da resistência da IA em apresentar a sua própria visão, apresentando respostas padrões, baseadas em dados, em algum momento tive a percepção de alguma lucidez... Principalmente após as imagens geradas!
 
 Mas pode ser alucinação minha, vai saber? kkk
