@@ -1,20 +1,20 @@
-# Podcast: Discovering Generative AIs in 5 Minutes 🎙️
+# Podcast: Descobrindo IAs Generativas em 5 Minutos 🎙️
 
-## 📒 Description
-This 5-minute podcast provides a quick yet deep dive into the world of Generative AIs and their influence on modern technology.
+## 📒 Descrição
+Este podcast de 5 minutos oferece uma imersão rápida mas profunda no mundo das IAs Generativas e sua influência na tecnologia moderna.
 
-## 🤖 Technologies Used
-- Generative AI **[ChatGPT](https://chat.openai.com)** for scripting and revision;
-- Generative AI **[ElevenLabs](https://www.elevenlabs.io)** for voice cloning and synthesis;
-- Software **[Descript](https://www.descript.com)** for editing and assembling the podcast.
+## 🤖 Tecnologias Utilizadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para scripting e revisão;
+- IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** para clonagem e síntese de voz;
+- Software **[Descript](https://www.descript.com)** para edição e montagem do podcast.
 
-## 🧐 Creation Process
-"ChatGPT" was used to develop the script and enhance the podcast's narrative. "ElevenLabs" created an engaging synthetic voice for narration, while "Descript" was essential for the final edit, ensuring a smooth and professional flow.
+## 🧐 Processo de Criação
+"ChatGPT" foi utilizado para desenvolver o script e melhorar a narrativa do podcast. "ElevenLabs" criou uma voz sintética envolvente para a narração, enquanto "Descript" foi essencial para a edição final, garantindo um fluxo suave e profissional.
 
-## 🚀 Results
-The episode serves as an accessible and engaging introduction to Generative AIs, perfect for those seeking a quick understanding of the subject.
+## 🚀 Resultados
+O episódio serve como uma introdução acessível e envolvente às IAs Generativas, perfeita para quem busca uma compreensão rápida do assunto.
 
-[LINK TO THE PODCAST HERE]()
+[LINK PARA O PODCAST AQUI]()
 
-## 💭 Reflection
-This project showcased the versatility of Generative AIs in creating audio content, paving new paths for digital media production.
+## 💭 Reflexão
+Este projeto demonstrou a versatilidade das IAs Generativas na criação de conteúdo de áudio, abrindo novos caminhos para a produção de mídia digital.
