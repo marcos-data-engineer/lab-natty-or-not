@@ -1,20 +1,20 @@
-# Video: One Minute in the Future of Generative AIs 🎥
+# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
 
-## 📒 Description
-This 1-minute video delivers a quick and captivating look at the potential and application of Generative AIs in everyday life.
+## 📒 Descrição
+Este vídeo de 1 minuto oferece uma visão rápida e cativante do potencial e aplicação das IAs Generativas no cotidiano.
 
-## 🤖 Technologies Used
-- Generative AI **[ChatGPT](https://chat.openai.com)** for scripting and revision;
-- Generative AI **[D-ID](https://www.d-id.com)** for voice synthesis and virtual avatar generation;
-- Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** for video editing.
+## 🤖 Tecnologias Utilizadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para scripting e revisão;
+- IA Generativa **[D-ID](https://www.d-id.com)** para síntese de voz e geração de avatar virtual;
+- Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** para edição de vídeo.
 
-## 🧐 Creation Process
-I used "ChatGPT" to draft and refine the video script. "D-ID" played a key role in creating a virtual avatar and synthesized voice, adding a futuristic touch to the video. Final assembly and editing were done in Adobe Premiere to ensure professional quality.
+## 🧐 Processo de Criação
+Usei "ChatGPT" para elaborar e refinar o script do vídeo. "D-ID" teve um papel fundamental na criação de um avatar virtual e voz sintetizada, adicionando um toque futurista ao vídeo. A montagem e edição final foram feitas no Adobe Premiere para garantir qualidade profissional.
 
-## 🚀 Results
-The video acts as a time capsule, taking viewers on a brief yet impactful journey into the world of Generative AIs, highlighting their transformative potential.
+## 🚀 Resultados
+O vídeo atua como uma cápsula do tempo, levando os espectadores em uma jornada breve mas impactante pelo mundo das IAs Generativas, destacando seu potencial transformador.
 
-[LINK TO THE VIDEO HERE]()
+[LINK PARA O VÍDEO AQUI]()
 
-## 💭 Reflection
-This project was an incredible experience in visual storytelling, leveraging Generative AIs to craft a powerful and engaging narrative.
+## 💭 Reflexão
+Este projeto foi uma experiência incrível na narrativa visual, aproveitando as IAs Generativas para criar uma narrativa poderosa e envolvente.
